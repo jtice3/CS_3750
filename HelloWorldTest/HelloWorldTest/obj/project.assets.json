@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kcran\\.nuget\\packages\\": {}
+    "C:\\Users\\cjayr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kcran\\source\\repos\\CS_37502\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
+      "projectUniqueName": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
       "projectName": "HelloWorldTest",
-      "projectPath": "C:\\Users\\kcran\\source\\repos\\CS_37502\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
-      "packagesPath": "C:\\Users\\kcran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kcran\\source\\repos\\CS_37502\\HelloWorldTest\\HelloWorldTest\\obj\\",
+      "projectPath": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
+      "packagesPath": "C:\\Users\\cjayr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kcran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cjayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
