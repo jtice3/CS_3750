@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\cjayr\\.nuget\\packages\\": {}
+    "C:\\Users\\B\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
+      "projectUniqueName": "C:\\Users\\B\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
       "projectName": "HelloWorldTest",
-      "projectPath": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
-      "packagesPath": "C:\\Users\\cjayr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjayr\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\obj\\",
+      "projectPath": "C:\\Users\\B\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\HelloWorldTest.csproj",
+      "packagesPath": "C:\\Users\\B\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\B\\Source\\Repos\\jtice3\\CS_3750\\HelloWorldTest\\HelloWorldTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cjayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\B\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
